@@ -1,0 +1,18 @@
+/src/**/*.js
+/src/locales
+/node_modules
+/.nyc_output
+/coverage
+/dump.txt
+/dist
+
+# Editor directories and files
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+nbproject
+.idea
+.vscode
